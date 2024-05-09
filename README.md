@@ -1,2 +1,2 @@
-# ESP8266
- General ESP8266 code
+# 8266
+ ESP-8266 Code
